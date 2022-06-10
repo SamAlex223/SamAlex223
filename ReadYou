@@ -1,0 +1,6 @@
+echo "# Demo" ReadYou.md
+git init
+git ReadYou.md
+git commit -first commit
+git remote add origin https://github.com/SamAlex223.git
+git push -u origin master
